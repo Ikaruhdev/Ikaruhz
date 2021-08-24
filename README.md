@@ -27,6 +27,6 @@
   <a href="https://899.carrd.co" target="_blank"><img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" target="_blank"></a> 
 </div>
 
- ![Snake animation](https://github.com/Ikaruhz/Ikaruhz/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Ikaruhz)
 
 
