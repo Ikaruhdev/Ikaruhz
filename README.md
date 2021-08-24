@@ -1,6 +1,7 @@
 ### Any a user of discord api´s
 
 🍜| Amar é umas das coisas mais lindas que eu já vi.
+(Os commits da animação da cobrinha não são meus)
 
  <div>
   <a href="https://github.com/Ikaruhz">
@@ -26,6 +27,7 @@
  <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://899.carrd.co" target="_blank"><img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" target="_blank"></a> 
 
-  ![Snake animation](https://github.com/Ikaruhz/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
