@@ -1,6 +1,7 @@
 ### Any a user of discord api´s
 
 🍜| Amar é umas das coisas mais lindas que eu já vi.
+
  <div>
   <a href="https://github.com/Ikaruhz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ikaruhz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -26,6 +27,6 @@
   <a href="https://899.carrd.co" target="_blank"><img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" target="_blank"></a> 
 </div>
 
- ![Snake animation](https://github.com/ikaruhz/ikaruhz/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Ikaruhz/Ikaruhz/blob/output/github-contribution-grid-snake.svg)
 
 
