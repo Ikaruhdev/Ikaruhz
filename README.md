@@ -1,8 +1,6 @@
 
-Claro, vou melhorar a sua bio do GitHub e adicionar algumas coisas legais para torná-la mais atrativa. Aqui está uma versão revisada e aprimorada:
-
-Hi there! 👋 I’m Ikaruhz
-🌐 | Passionate about coding, gaming, and connecting with the community.
+Olá! 👋 Me chamo Ikaruh
+🌐 | Amo programar, sou apenas um usuário das api´s do discord.
 
 🍜 | "Amar é umas das coisas mais lindas que eu já vi."
 
