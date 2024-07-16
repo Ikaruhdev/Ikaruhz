@@ -1,3 +1,6 @@
+
+Claro, vou melhorar a sua bio do GitHub e adicionar algumas coisas legais para torná-la mais atrativa. Aqui está uma versão revisada e aprimorada:
+
 Hi there! 👋 I’m Ikaruhz
 🌐 | Passionate about coding, gaming, and connecting with the community.
 
@@ -15,4 +18,19 @@ Hi there! 👋 I’m Ikaruhz
   <img align="center" alt="Ikaruh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ikaruh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="ikaruh" src="https://user-images.githubusercontent.com/59300322/130700114-46236529-3866-4b10-abe2-728b1c540dcf.png">
+</div>
+Connect with me:
+<div>
+  <a href="https://www.youtube.com/channel/UC90eBa3_3nvSGpImflarNKA" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/eoikaruh_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://discord.gg/PUrzHPUTjC" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  </a>
+  <a href="https://899.carrd.co" target="_blank">
+    <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" target="_blank">
+  </a>
 </div>
